@@ -1,3 +1,3 @@
-- [ ] remove need for cloning into self.last in tetris shuffle by removing self.last field
-- [ ] folder with single file does not play anything
-- [ ] Ensure rustfmt on save works
+- [x] remove need for cloning into self.last in tetris shuffle by removing self.last field
+- [x] folder with single file does not play anything
+- [x] Ensure rustfmt on save works
